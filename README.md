@@ -1,2 +1,5 @@
 # ViaCep
-Projeto para consumir Api ViaCep e salvar o resultado
+- Precisa da JDK compativel com a versão do Java 17
+- Banco de dados PostgreSQL
+- User, senha e databese, se encontra no arquivo application.properties
+- teste unitario utilizando WireMock
